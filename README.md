@@ -1,2 +1,2 @@
 # python3
-Curso básico de python 3 no Linux Mint e no Windows do Curso Bora para a Prática
+Curso básico de Python 3 no Linux Mint 22 e no Windows 11 do Curso Bora para a Prática
